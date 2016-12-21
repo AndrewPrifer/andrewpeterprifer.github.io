@@ -9,7 +9,7 @@
 }
 
 html {
-  background: #000 url(/img/portrait.jpg) no-repeat center top fixed;
+  background: #000 url(/img/portrait.png) no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -18,9 +18,9 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
